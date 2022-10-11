@@ -1,2 +1,1 @@
-This is a readme file
-Nothing else
+This is a project about the basic commands in shell.
